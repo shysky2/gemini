@@ -1,0 +1,5 @@
+{
+  "name": "ToonifyMe",
+  "description": "Transform your portraits into unique cartoon avatars using Gemini's advanced image generation capabilities.",
+  "requestFramePermissions": []
+}
